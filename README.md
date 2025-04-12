@@ -1,7 +1,7 @@
 # Bank_Customer_Analysis
 Insight on how bank can improve customer retention strategies, optimize financial products, and better understanding of customer behavior across different segments.
 
-Title
+# Title
 
 Customer Churn Analysis in Retail Banking: Data-Driven Insights and Strategic Recommendations
 
@@ -12,7 +12,7 @@ Customer churn presents a significant challenge for banks, impacting long-term p
 This project seeks to uncover the drivers behind customer churn and to support proactive strategies that improve retention, especially for high-value and at-risk segments.
 
 
-Objective
+# Objectives
 
 Analyze bank customer data to identify patterns and key drivers of churn.
 
@@ -23,7 +23,7 @@ Provide actionable recommendations to reduce churn and increase customer lifetim
 Set the foundation for a predictive churn model using machine learning techniques.
 
 
-Datasets Used
+# Datasets Used
 
 1. Customer_Info.csv
 Contains demographic details:
@@ -38,7 +38,7 @@ CreditScore, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary,
 The datasets were merged on CustomerID for a unified view of each customer.
 
 
-Approach
+# Approach
 
 1. Data Collection & Cleaning
 Two datasets (Customer_Info.csv and Account_Info.csv) were merged on CustomerId.
@@ -67,7 +67,7 @@ Compared churn across segments to identify at-risk groups.
 
 
 
-Analysis and Insights
+# Analysis and Insights
 
 Key Findings:
  - Churn Rate: ~20.4% of customers have exited.
@@ -85,12 +85,12 @@ Key Findings:
  - Gender: Slightly higher churn among female customers.
 
 
-Conclusion
+# Conclusion
 
 Churn is influenced not just by customer demographics but also by product engagement, activity level, and financial value. High-balance clients and inactive customers form the highest-risk groups, indicating that losing valuable customers is a significant business threat.
 
 
-Recommendations
+# Recommendations
 
 1. Retain High-Balance Clients
  - Offer loyalty benefits and exclusive services (e.g., wealth management).
