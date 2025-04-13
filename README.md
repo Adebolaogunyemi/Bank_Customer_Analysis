@@ -5,7 +5,7 @@ Insight on how bank can improve customer retention strategies, optimize financia
 
 Customer Churn Analysis in Retail Banking: Data-Driven Insights and Strategic Recommendations
 
-Problem Statement
+# Problem Statement
 
 Customer churn presents a significant challenge for banks, impacting long-term profitability and growth. A considerable portion of high-value customers is exiting without clear patterns, leading to increased customer acquisition costs and loss of potential lifetime value.
 
